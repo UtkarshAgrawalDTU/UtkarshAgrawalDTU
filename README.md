@@ -2,9 +2,6 @@
 
 ### I am Utkarsh Agrawal, an undergraduate student at Delhi Technological University(DTU)
 
-<!--
-**UtkarshAgrawalDTU/UtkarshAgrawalDTU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on the assignments given by my professors.
 - 🌱 I’m currently learning Redux and Firebase
 - ⚡ I have worked on Django, React, Git, REST API's, MySQL, PostgreSQL, SQLite, etc.
