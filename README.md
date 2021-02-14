@@ -8,3 +8,4 @@
 - 😄 Check out my Web Based Projects : [What's In My Fridge?](https://tender-jennings-1f85ec.netlify.app/), [Betagram](https://betagram.herokuapp.com/), [Portfolio](https://utkarshagrawaldtu.github.io/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/utkarsh-agrawal-dtu/)
 
+[![Utkarsh Agrawal's GitHub stats](https://github-readme-stats.vercel.app/api?username=UtkarshAgrawalDTU)](https://github.com/anuraghazra/github-readme-stats)
